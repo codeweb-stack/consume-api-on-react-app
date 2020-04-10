@@ -1,3 +1,18 @@
+Setup the development env
+please install npm and nodejs latest version on your system
+
+1. npx create-react-app .
+2. npm i -D tailwindcss postcss-cli autoprefixer
+3. npx tailwind init tailwind.js
+4. touch postcss.config.js
+5. cd src
+6. mkdir assests
+7. cd assests
+8. touch main.css
+9. touch tailwind.css
+10.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
